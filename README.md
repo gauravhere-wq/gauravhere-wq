@@ -72,7 +72,7 @@ I build things that work — from chess engines in Java to obstacle-detecting ro
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravpaneru7&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=gauravhere-wq&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
