@@ -66,14 +66,16 @@ I build things that work — from chess engines in Java to obstacle-detecting ro
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravhere-wq&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravhere-wq&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=gauravhere-wq&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=gauravhere-wq&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/hello_gaurav?theme=dark&font=baloo_2" />
+    </td>
+  </tr>
+</table>
 
 ---
 
