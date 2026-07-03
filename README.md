@@ -16,13 +16,12 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at **Texas State University** (Class of 2028), originally from Jhapa, Nepal.  
-I build things that work — from chess engines in Java to obstacle-detecting robots in C++.
+I'm a Computer Science student at **Texas State University** (Class of 2028). I love to build and program things which are meaningful, especially in java. 
 
-- 📐 **Calculus Bee Bronze Medal** — TXST Dept. of Mathematics (2025)
-- 🏅 **ICPC Bronze Medal** — TXST Texas-Mexico Invitational (Nov 2024)
-- 🎓 **Dean's List** — Fall 2024 & Spring 2025 | **Merit Scholarship** recipient
-- 🧑‍🏫 Former **CS Teaching Assistant** — taught 30+ students in Nepal
+- 📐 **Calculus Bee Bronze Medal**:  TXST Dept. of Mathematics (2025)
+- 🏅 **ICPC Bronze Medal**: TXST Texas-Mexico Invitational (Nov 2024)
+- 🎓 **Dean's List**: Fall 2024 & Spring 2025 | **Merit Scholarship** recipient
+- 🧑‍🏫 Former **CS Teaching Assistant**: taught 30+ students in Nepal
 
 ---
 
@@ -49,7 +48,7 @@ I build things that work — from chess engines in Java to obstacle-detecting ro
 
 ## 📌 Featured Projects
 
-### ♟️ Chess Game (Java) — OOP Capstone
+### ♟️ Chess Game (Java): OOP Capstone
 > A fully functional two-player chess game built with Java + JavaFX  
 > Features: move validation, castling, en passant, promotion, real-time GUI  
 > Team of 4 · Git-managed · OOP principles throughout
@@ -82,9 +81,9 @@ I build things that work — from chess engines in Java to obstacle-detecting ro
 ## 🎯 Currently Working On
 
 - 🔐 Deepening Spring Boot + Hibernate for full-stack internship prep
-- 📚 50 LeetCode problems (Java) — DSA interview grind
+- 📚 50 LeetCode problems (Java): DSA interview grind
 - 🌐 Building personal portfolio site with React
-- 🏆 Preparing for ICPC 2025 — aiming to upgrade from Bronze
+- 🏆 Preparing for ICPC 2025: aiming to upgrade from Bronze
 
 ---
 
